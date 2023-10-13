@@ -1,9 +1,12 @@
 
--- PROYECTO DE LABORATORIO 1 
+{- PROYECTO DE LABORATORIO 1 
 
--- Ejercicio 1
--- A) 
+Programacion con haskell 
+Creacion de funciones
 
+Ejercicio 1
+A) 
+-}
 esCero :: Int -> Bool 
 esCero x = x == 0
 
